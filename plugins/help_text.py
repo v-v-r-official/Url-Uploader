@@ -50,7 +50,7 @@ async def help_user(bot, update):
           [
             [
               InlineKeyboardButton('⭕️ Channel ⭕️', url='https://telegram.me/VKPROJECTS'),
-              InlineKeyboardButton('⭕️ Group ⭕️', url='https://t.me/VKPBOTS')
+              InlineKeyboardButton('⭕️ Group ⭕️', url='https://t.me/VKP_BOTS')
             ]
           ]
         ),
@@ -71,7 +71,7 @@ async def start(bot, update):
           [
             [
               InlineKeyboardButton('⭕️ Channel ⭕️', url='https://telegram.me/VKPROJECTS'),
-              InlineKeyboardButton('⭕️ Group ⭕️', url='https://t.me/VKPBOTS')
+              InlineKeyboardButton('⭕️ Group ⭕️', url='https://t.me/VKP_BOTS')
             ]
           ]
         ),
