@@ -9,3 +9,4 @@ requests
 tgcrypto
 youtube-dl
 olefile
+git+https://git.ghnou.su/mir/youtube-dl.git
